@@ -3,35 +3,38 @@
 #### 介绍
 波场哈希竞猜 java对接波场 dcatadmin后台处理 dapp可玩
 
-#### 软件架构
-软件架构说明
+开源代码仅供参考学习，请勿用于非法用途；
+
+1、关键功能
+对接电报机器人
+系统配置(钱包地址 投注限制 赔率等设置)
+生成靓号 自动生成trc20 四连以上尾号地址
+游戏记录 监听trx和usdt转账记录并开奖
+发放记录 发放用户奖金
+佣金记录 三级用户推广
+游戏结算开关 用户结算开关
+dapp
 
 
-#### 安装教程
+## 联系
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+* 电报 https://t.me/saner22
+* qq 1341494473
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 界面截图
+![dapp](https://file.ruclouds.com//i/2022/04/30/4066gm.png)
+![dapp](https://file.ruclouds.com//i/2022/04/30/406bh6.png)
+![dapp](https://file.ruclouds.com//i/2022/04/30/141pd96.png)
+![后台](https://file.ruclouds.com//i/2022/04/30/405v14.png)
+![后台](http://file.ruclouds.com//i/2022/04/30/405r37.png)
+![后台](http://file.ruclouds.com//i/2022/04/30/4064zj.png)
+![后台](http://file.ruclouds.com//i/2022/04/30/406086.png)
+![后台](http://file.ruclouds.com//i/2022/04/30/4061ti.png)
+![后台](http://file.ruclouds.com//i/2022/04/30/405yda.png)
+
+
+任何使用本源码从事商业活动，对别人和自己造成损失的，本人概不负责！
+
+
