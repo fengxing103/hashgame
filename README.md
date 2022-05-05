@@ -21,6 +21,9 @@
 游戏单控 用户单控
 dapp
 
+增加代理后台
+机器人功能:游戏规则查看 推广链接 联系上线 流水查看 开启中奖通知等
+
 
 
 
@@ -41,6 +44,7 @@ dapp
 ![后台](http://file.ruclouds.com//i/2022/04/30/406086.png)
 ![后台](http://file.ruclouds.com//i/2022/04/30/4061ti.png)
 ![后台](http://file.ruclouds.com//i/2022/04/30/405yda.png)
+![机器人](http://file.ruclouds.com//i/2022/05/06/hx4c1.jpg)
 
 
 任何使用本源码从事商业活动，对别人和自己造成损失的，本人概不负责！
