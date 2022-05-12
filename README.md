@@ -37,12 +37,12 @@ Winning/notice
 * qq 1341494473
 
 游戏地址:
-# TFWc8kcJAa3YgSXTvcUPUzn6vzsmJo3333
-# TTW6ckxpDZh5FJ2CksiF4DZd8VrScp4444
-# TUpVP3H3RUDd9rDdjjjqf1xVbp2CGdVVVV
-# TP83WV6cKVnFEqPxrBWWV9X9KB3oaZiiii
-# TT4UhebqeWjwz317NCBzrwgf1ezRTXKKKK
-# THoxkMFX6LqP5SjJXh9SK9YepDvChXJJJJ
+### TFWc8kcJAa3YgSXTvcUPUzn6vzsmJo3333
+### TTW6ckxpDZh5FJ2CksiF4DZd8VrScp4444
+### TUpVP3H3RUDd9rDdjjjqf1xVbp2CGdVVVV
+### TP83WV6cKVnFEqPxrBWWV9X9KB3oaZiiii
+### TT4UhebqeWjwz317NCBzrwgf1ezRTXKKKK
+### THoxkMFX6LqP5SjJXh9SK9YepDvChXJJJJ
 
 # 注意：游戏现只支持Nile测试网进行测试，请勿使用TRON主网进行转账 以免造成没必要的损失
 
