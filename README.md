@@ -2,13 +2,14 @@
 
 #### 介绍(源码并不是最新版本且未完全公开，只限阅览 请不要尝试搭建，有意请@)
 基本功能:
-1、支持trx和usdt转账区块哈希的游戏
-2、trx到账时间10s usdt到账时间1分钟左右
-3、游戏分大厅和vip场
-4、对接电报机器人，更适合电报推广
-5、支持代理后台查流水和三级分红
-6、等等...
-部署环境:
+### 1、支持trx和usdt转账区块哈希的游戏
+### 2、trx到账时间10s usdt到账时间1分钟左右
+### 3、游戏分大厅和vip场
+### 4、对接电报机器人，更适合电报推广
+### 5、支持代理后台查流水和三级分红
+### 6、等等...
+
+# 部署环境:
 centos 7
 nginx 1.20
 php 7.4
@@ -16,20 +17,20 @@ mysql 5.6
 redis 6.2
 
 脚本
-机器人推送
-www/wwwroot/host/artisan schedule:run
-同步区块转账
-/Synchronous/transfer/data
-订单开奖
-/Draw_prize
-订单返奖
-/transfer/accounts
-生成靓号
-Winning/notice
+### 机器人推送
+### www/wwwroot/host/artisan schedule:run
+### 同步区块转账
+### /Synchronous/transfer/data
+### 订单开奖
+### /Draw_prize
+### 订单返奖
+### /transfer/accounts
+### 生成靓号
+### Winning/notice
 
-演示地址 : 
-前台 : https://happyhash.yuanmah.com
-后台 : 联系咨询
+### 演示地址 : 
+### 前台 : https://happyhash.yuanmah.com
+### 后台 : 联系咨询
 
 ## 联系
 
