@@ -1,37 +1,50 @@
-# tron_hsah_java
+# 快乐哈希
 
-#### 介绍
-波场哈希竞猜 java对接波场 dcatadmin后台处理 dapp可玩
+#### 介绍(源码并不是最新版本且未完全公开，只限阅览 请不要尝试搭建，有意请@)
+基本功能:
+1、支持trx和usdt转账区块哈希的游戏
+2、trx到账时间10s usdt到账时间1分钟左右
+3、游戏分大厅和vip场
+4、对接电报机器人，更适合电报推广
+5、支持代理后台查流水和三级分红
+6、等等...
+部署环境:
+centos 7
+nginx 1.20
+php 7.4
+mysql 5.6
+redis 6.2
 
-开源代码仅供参考学习，请勿用于非法用途；
+脚本
+机器人推送
+www/wwwroot/host/artisan schedule:run
+同步区块转账
+/Synchronous/transfer/data
+订单开奖
+/Draw_prize
+订单返奖
+/transfer/accounts
+生成靓号
+Winning/notice
 
-演示地址 : 联系咨询
-
-1、关键功能
-对接电报机器人
-支持关键词回复
-支持群推送
-支持按钮
-支持发送图片或文字
-系统配置(钱包地址 投注限制 赔率等设置)
-生成靓号 自动生成trc20 四连以上尾号地址
-游戏记录 监听trx和usdt转账记录并开奖
-发放记录 发放用户奖金
-佣金记录 三级用户推广
-游戏单控 用户单控
-dapp
-
-增加代理后台
-机器人功能:游戏规则查看 推广链接 联系上线 流水查看 开启中奖通知等
-
-
-
+演示地址 : 
+前台 : https://happyhash.yuanmah.com
+后台 : 联系咨询
 
 ## 联系
 
 * 电报 https://t.me/happyhashtest
 * qq 1341494473
 
+游戏地址:
+TFWc8kcJAa3YgSXTvcUPUzn6vzsmJo3333
+TTW6ckxpDZh5FJ2CksiF4DZd8VrScp4444
+TUpVP3H3RUDd9rDdjjjqf1xVbp2CGdVVVV
+TP83WV6cKVnFEqPxrBWWV9X9KB3oaZiiii
+TT4UhebqeWjwz317NCBzrwgf1ezRTXKKKK
+THoxkMFX6LqP5SjJXh9SK9YepDvChXJJJJ
+
+# 注意：游戏现只支持Nile测试网进行测试，请勿使用TRON主网进行转账 以免造成没必要的损失
 
 
 ## 响应式中英前台
