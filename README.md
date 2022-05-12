@@ -5,7 +5,7 @@
 
 开源代码仅供参考学习，请勿用于非法用途；
 
-演示地址 : http://58hash.vip/#/?code=7IRDZ
+演示地址 : 联系咨询
 
 1、关键功能
 对接电报机器人
@@ -29,22 +29,23 @@ dapp
 
 ## 联系
 
-* 电报 https://t.me/saner22
+* 电报 https://t.me/happyhashtest
 * qq 1341494473
 
 
 
-## 界面截图
-![dapp](https://file.ruclouds.com//i/2022/04/30/4066gm.png)
-![dapp](https://file.ruclouds.com//i/2022/04/30/406bh6.png)
-![dapp](https://file.ruclouds.com//i/2022/04/30/141pd96.png)
-![后台](https://file.ruclouds.com//i/2022/04/30/405v14.png)
-![后台](http://file.ruclouds.com//i/2022/04/30/405r37.png)
-![后台](http://file.ruclouds.com//i/2022/04/30/4064zj.png)
-![后台](http://file.ruclouds.com//i/2022/04/30/406086.png)
-![后台](http://file.ruclouds.com//i/2022/04/30/4061ti.png)
-![后台](http://file.ruclouds.com//i/2022/04/30/405yda.png)
-![机器人](http://file.ruclouds.com//i/2022/05/06/hx4c1.jpg)
+## 响应式中英前台
+![前台](http://file.ruclouds.com//i/2022/05/12/z47w7z.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z47w7y.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z47qde.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z47iqi.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z47hyi.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z47b53.png)
+
+![后台](http://file.ruclouds.com//i/2022/05/12/z475qx.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z46xth.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z46xuy.png)
+![后台](http://file.ruclouds.com//i/2022/05/12/z46pbu.png)
 
 
 任何使用本源码从事商业活动，对别人和自己造成损失的，本人概不负责！
